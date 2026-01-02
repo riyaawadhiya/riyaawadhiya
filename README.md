@@ -1,7 +1,7 @@
 # Hi 👋 I'm Riya Awadhiya  
 
 Frontend Developer | React & React Native | Shopify Developer  
-I am a Computer Science student (B.Tech CSE – 2026) with hands-on experience.
+I am a Computer Science student (B.Tech CSE – 2026) with hands-on experience in web and app develpment .
 I enjoy building clean, user-friendly, and scalable applications.
 
 ## 🔧 Tech Stack
