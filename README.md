@@ -6,7 +6,7 @@ I enjoy building clean, user-friendly, and scalable applications.
 
 ## 🔧 Tech Stack
 
-- HTML, CSS, JavaScript (ES6+) , React.js , React Native (Expo) , Tailwind CSS , Shopify
+ HTML, CSS, JavaScript (ES6+) , React.js , React Native (Expo) , Tailwind CSS , Shopify
 
 ## 💼 Internship Experience
 **Web Developer Intern – Ouranos Robotics Pvt. Ltd.**
