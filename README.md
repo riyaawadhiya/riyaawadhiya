@@ -2,7 +2,6 @@
 <!--        FUTURISTIC GITHUB PROFILE          -->
 <!-- ========================================= -->
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Riya%20Awadhiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Frontend%20Engineer&descAlignY=58" width="100%" />
@@ -15,17 +14,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b17-4fdf-90d1-13ded23d0a28.gif" width="500"/>
 
-</div>
 
-### 💻 MERN Stack Developer | React Native • Web & Mobile • Shopify
+<br/>
 
-### 🎓 CSE’26 @ SRIT | 🚀 Exploring New Opportunities
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b17-4fdf-90d1-13ded23d0a28.gif" width="450"/>
 
-</div>
-
-
----
----
 # ✨ What I Do
 
 <div align="center">
