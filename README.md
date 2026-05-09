@@ -201,34 +201,6 @@ Feature-rich mobile app with:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyaawadhiya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaawadhiya&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaawadhiya&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaawadhiya&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
