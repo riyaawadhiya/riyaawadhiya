@@ -4,19 +4,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Riya%20Awadhiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20React%20Native%20%7C%20Shopify%20Developer&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Riya%20Awadhiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Frontend%20Engineer&descAlignY=58" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;Frontend+Developer+%F0%9F%92%BB;React+%26+React+Native+Developer+%F0%9F%9A%80;Shopify+Developer+%F0%9F%9B%8D%EF%B8%8F;Hackathon+Builder+%26+UI+Enthusiast+%F0%9F%94%A5;Building+Modern+%26+Scalable+Applications+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;React+Native+Developer+%F0%9F%93%B1;Frontend+Engineer+%F0%9F%92%BB;Building+Modern+Mobile+Experiences+%E2%9C%A8;Exploring+Startups+%26+Remote+Opportunities+%F0%9F%9A%80;Passionate+About+Scalable+UI%2FUX+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b17-4fdf-90d1-13ded23d0a28.gif" width="500"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=riyaawadhiya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -28,15 +24,17 @@
 
 ### 👩‍💻 Riya Awadhiya
 
-🎓 B.Tech Computer Science Engineering Student (2026)  
-💻 Frontend Developer & React Native Developer  
-⚛️ Passionate about scalable UI and modern applications  
-🛍️ Shopify Developer with real-world freelance experience  
-🚀 Exploring startups, AI-powered ideas & innovative products  
-🌱 Learning Backend Development & Full Stack Architecture  
-🔥 Love building modern, clean & user-focused experiences  
+🚀 React Native App Developer focused on building modern, scalable and user-friendly mobile applications.
 
-<br/>
+🎓 B.Tech Computer Science Engineering Student (2026)  
+📱 Specialized in React Native, Expo & Frontend Development  
+⚡ Passionate about smooth UI/UX and responsive interfaces  
+🛍️ Experienced in Shopify development & freelance projects  
+🌱 Currently exploring Backend Development & Full Stack systems  
+💼 Open to internships, startup collaborations & remote opportunities  
+🔥 Love transforming ideas into real-world digital experiences  
+
+<br clear="right"/>
 
 ---
 
@@ -59,7 +57,7 @@
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <br/><br/>
 
@@ -71,46 +69,17 @@
 
 ---
 
-# 💼 Internship Experience
+# 💼 Experience
 
 <div align="center">
 
-| 💻 Role | 🏢 Company | 🚀 Highlights |
+| 💻 Role | 🏢 Organization | 🚀 Highlights |
 |---|---|---|
-| **Web Developer Intern** | **Ouranos Robotics Pvt. Ltd.** | React Native development using Expo + Tailwind CSS |
-| **UI Designer Intern** | **Hartalkar Innovations** | Built animated EV Speedometer UI using HTML/CSS/JS |
+| **React Native Developer Intern** | **Ouranos Robotics Pvt. Ltd.** | Built mobile app features using Expo + Tailwind CSS |
+| **UI Designer Intern** | **Hartalkar Innovations** | Designed interactive and animated frontend interfaces |
+| **Freelance Shopify Developer** | **Self-Employed** | Customized Shopify storefronts & responsive UI |
 
 </div>
-
-<br/>
-
-### 🚗 EV Speedometer UI
-- Futuristic electric vehicle dashboard UI
-- Animated speedometer interface
-- Built using HTML, CSS & JavaScript
-- Refactored into React + Tailwind CSS
-
----
-
-# 🛍️ Freelance Shopify Development
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-aca7dc44-ff69-40a5-8f2d-6b0d4a6d5d6f.gif" width="350"/>
-
-</div>
-
-### ✨ What I Work On
-✔️ Complete Shopify Store Setup  
-✔️ Custom Shopify Themes  
-✔️ Product & Collection Management  
-✔️ Responsive E-commerce UI  
-✔️ Store Customization & Deployment  
-
-### 🌍 Live Store Showcase
-🔗 https://ollypolly.in/  
-🔗 https://shop.ouranosrobotics.com/  
-🔗 https://natchkin.com/
 
 ---
 
@@ -127,15 +96,16 @@
 <br/>
 
 ### 🚀 Grahak – QR Based Token System
+
 Built during **HackByte 4.0 at IIITDM Jabalpur**
 
 ✨ Features:
-- QR-based digital token system
-- Order tracking for food vendors
+- QR-based digital token management
+- Order tracking system
 - Analytics dashboard
-- Real-time workflow concepts
+- Smart workflow for vendors
 
-🛠️ Tech Used:
+🛠️ Tech Stack:
 `React Native` `Node.js` `MongoDB` `React.js`
 
 ---
@@ -150,13 +120,13 @@ Built during **HackByte 4.0 at IIITDM Jabalpur**
 
 <td width="50%">
 
-## 📱 React Native App
+## 📱 BlueWave App
 
-Modern mobile application featuring:
-- Drawer Navigation
-- Custom Modals
-- Multilingual Support
-- Responsive UI
+Modern React Native application featuring:
+- Clean mobile UI
+- Smooth navigation
+- Responsive design
+- Real-time user experience
 
 ### ⚙️ Stack
 `React Native` `Expo` `Tailwind CSS`
@@ -172,49 +142,12 @@ Modern mobile application featuring:
 
 Custom Shopify storefront with:
 - Product management
-- Store customization
 - Responsive layouts
+- Store customization
+- Optimized UI/UX
 
 ### ⚙️ Stack
 `Shopify` `Liquid` `CSS`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🚗 EV Speedometer UI
-
-Futuristic electric vehicle dashboard:
-- Interactive UI
-- Animated speed meter
-- Responsive design
-
-### ⚙️ Stack
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-<td width="50%">
-
-## 🤟 Aura Sign Language Project
-
-Accessibility-focused communication app:
-- Sign language support
-- Real-time interaction ideas
-- Inclusive technology
-
-### ⚙️ Stack
-`React Native` `AI/ML`
 
 🔗 Demo: Coming Soon  
 🔗 Repo: Coming Soon
@@ -244,7 +177,19 @@ Smart browser extension that:
 
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656965-0e0b7e4f-3f88-4a56-a8d4-c8b33f67b8ff.gif" width="100%"/>
+## 🚀 React Native Mobile App
+
+Feature-rich mobile app with:
+- Drawer Navigation
+- Custom Modals
+- Multilingual Support
+- Modern UI Components
+
+### ⚙️ Stack
+`React Native` `Expo` `Tailwind CSS`
+
+🔗 Demo: Coming Soon  
+🔗 Repo: Coming Soon
 
 </td>
 
@@ -284,16 +229,6 @@ Smart browser extension that:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -318,7 +253,7 @@ Smart browser extension that:
 
 ---
 
-# 💡 Quote
+# 💡 Developer Quote
 
 <div align="center">
 
@@ -330,11 +265,14 @@ Smart browser extension that:
 
 ---
 
-# ⚡ Fun Developer Stuff
+# ⚡ Beyond Coding
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=riyaawadhiya&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+✨ Exploring innovative startup ideas  
+✨ Building modern mobile experiences  
+✨ Learning scalable architectures  
+✨ Open to exciting collaborations & opportunities  
 
 </div>
 
@@ -347,8 +285,3 @@ Smart browser extension that:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-
-<!-- Resume references used:
-:contentReference[oaicite:0]{index=0}
-:contentReference[oaicite:1]{index=1}
--->
