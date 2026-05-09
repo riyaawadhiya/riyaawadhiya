@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;MERN+Stack+Developer+%F0%9F%92%BB;React+Native+%26+Frontend+Engineer+%F0%9F%93%B1;Building+Modern+Mobile+Experiences+%E2%9C%A8;Debugging+%26+Solving+Real+World+Problems+%F0%9F%9A%80;Exploring+New+Opportunities+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;Full+Stack+Developer+%F0%9F%92%BB;React+Native+%26+Frontend+Engineer+%F0%9F%93%B1;Building+Modern+Mobile+Experiences+%E2%9C%A8;Debugging+%26+Solving+Real+World+Problems+%F0%9F%9A%80;Exploring+New+Opportunities+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,12 +16,13 @@
 
 <br/><br/>
 
-### 💻 MERN Stack Developer | React Native • Web & Mobile • Shopify
+### 💻 Full Stack Developer | Web & Mobile | React.js • Node.js • React Native • Shopify
 
 ### 🎓 CSE’26 @ SRIT | 🚀 Exploring New Opportunities
 
 </div>
 
+---
 ---
 # ✨ What I Do
 
