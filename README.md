@@ -17,57 +17,31 @@
 </div>
 
 ---
-
 # ✨ About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Mobile+Applications+%F0%9F%93%B1;Passionate+About+UI%2FUX+%26+Clean+Architecture+%E2%9C%A8;Debugging+%26+Optimizing+Apps+%F0%9F%9A%80;Creating+Modern+Digital+Experiences+%F0%9F%94%A5" />
-
-</div>
-
-<br/>
-
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4f1f-bfd0-3a9f7b6d2f4b.gif">
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4f1f-bfd0-3a9f7b6d2f4b.gif">
 
 ## 👩‍💻 Riya Awadhiya
 
-🚀 Passionate **React Native App Developer** focused on building scalable, modern and high-performance mobile applications with clean architecture and smooth user experiences.
+🚀 React Native App Developer passionate about building scalable, modern and user-friendly mobile applications.
 
-💡 I enjoy transforming innovative ideas into impactful digital products while improving performance, usability and real-world functionality.
-
-⚡ Skilled in:
-- React Native & Expo Development
-- Frontend Engineering
-- Responsive UI/UX Design
-- API Integration & State Management
+💻 Specialized in:
+- React Native & Expo
+- Frontend Development
+- Responsive UI/UX
+- API Integration
 - Debugging & Error Resolution
 - Performance Optimization
-- Clean & Reusable Code Architecture
 
-🛠️ I love:
-- Solving development challenges
-- Debugging complex application issues
-- Creating smooth mobile experiences
-- Building scalable UI systems
-- Exploring startup & product-based ideas
-- Learning modern technologies & workflows
+⚡ I enjoy solving real-world development problems, optimizing app performance and creating smooth digital experiences with clean architecture.
 
-🌱 Currently Exploring:
-- Backend Development
-- Full Stack Systems
-- Scalable App Architecture
-- Advanced React Native Workflows
-- Product Engineering
+🌱 Currently exploring Backend Development, scalable systems and advanced mobile workflows.
 
-💼 Open To:
-- Internships
-- Startup Collaborations
-- Remote Opportunities
-- React Native Projects
-- Freelance Development Work
+💼 Open to internships, startup collaborations, freelance work and remote opportunities.
 
-<br/>
+<br clear="right"/>
+
+---
 
 <div align="left">
 
