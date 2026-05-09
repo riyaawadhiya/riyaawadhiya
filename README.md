@@ -4,30 +4,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Riya%20Awadhiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Frontend%20Engineer&descAlignY=58" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:1f1b4d,100:2d325a&height=260&section=header&text=Riya%20Awadhiya&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=React%20Native%20Developer%20%7C%20Frontend%20Engineer&descAlignY=62&descSize=24"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;React+Native+Developer+%F0%9F%93%B1;Frontend+Engineer+%F0%9F%92%BB;Building+Modern+Mobile+Experiences+%E2%9C%A8;Debugging+%26+Solving+Real+World+Problems+%F0%9F%9A%80;Exploring+Startups+%26+Remote+Opportunities+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;MERN+Stack+Developer+%F0%9F%92%BB;React+Native+%26+Frontend+Engineer+%F0%9F%93%B1;Building+Modern+Mobile+Experiences+%E2%9C%A8;Debugging+%26+Solving+Real+World+Problems+%F0%9F%9A%80;Exploring+New+Opportunities+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b17-4fdf-90d1-13ded23d0a28.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b17-4fdf-90d1-13ded23d0a28.gif" width="450"/>
 
-</div>
+<br/><br/>
 
----
+### 💻 MERN Stack Developer | React Native • Web & Mobile • Shopify
 
-
-<br/>
-
-### 💻 Full Stack Developer | Web & Mobile | React.js • Node.js • React Native • Shopify  
 ### 🎓 CSE’26 @ SRIT | 🚀 Exploring New Opportunities
 
 </div>
 
 ---
-
 # ✨ What I Do
 
 <div align="center">
