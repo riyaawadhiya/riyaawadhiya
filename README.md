@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;React+Native+Developer+%F0%9F%93%B1;Frontend+Engineer+%F0%9F%92%BB;Building+Modern+Mobile+Experiences+%E2%9C%A8;Exploring+Startups+%26+Remote+Opportunities+%F0%9F%9A%80;Passionate+About+Scalable+UI%2FUX+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Riya+Awadhiya;React+Native+Developer+%F0%9F%93%B1;Frontend+Engineer+%F0%9F%92%BB;Building+Modern+Mobile+Experiences+%E2%9C%A8;Debugging+%26+Solving+Real+World+Problems+%F0%9F%9A%80;Exploring+Startups+%26+Remote+Opportunities+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,19 +20,67 @@
 
 # ✨ About Me
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4f1f-bfd0-3a9f7b6d2f4b.gif">
+<div align="center">
 
-### 👩‍💻 Riya Awadhiya
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Mobile+Applications+%F0%9F%93%B1;Passionate+About+UI%2FUX+%26+Clean+Architecture+%E2%9C%A8;Debugging+%26+Optimizing+Apps+%F0%9F%9A%80;Creating+Modern+Digital+Experiences+%F0%9F%94%A5" />
 
-🚀 React Native App Developer focused on building modern, scalable and user-friendly mobile applications.
+</div>
 
-🎓 B.Tech Computer Science Engineering Student (2026)  
-📱 Specialized in React Native, Expo & Frontend Development  
-⚡ Passionate about smooth UI/UX and responsive interfaces  
-🛍️ Experienced in Shopify development & freelance projects  
-🌱 Currently exploring Backend Development & Full Stack systems  
-💼 Open to internships, startup collaborations & remote opportunities  
-🔥 Love transforming ideas into real-world digital experiences  
+<br/>
+
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4f1f-bfd0-3a9f7b6d2f4b.gif">
+
+## 👩‍💻 Riya Awadhiya
+
+🚀 Passionate **React Native App Developer** focused on building scalable, modern and high-performance mobile applications with clean architecture and smooth user experiences.
+
+💡 I enjoy transforming innovative ideas into impactful digital products while improving performance, usability and real-world functionality.
+
+⚡ Skilled in:
+- React Native & Expo Development
+- Frontend Engineering
+- Responsive UI/UX Design
+- API Integration & State Management
+- Debugging & Error Resolution
+- Performance Optimization
+- Clean & Reusable Code Architecture
+
+🛠️ I love:
+- Solving development challenges
+- Debugging complex application issues
+- Creating smooth mobile experiences
+- Building scalable UI systems
+- Exploring startup & product-based ideas
+- Learning modern technologies & workflows
+
+🌱 Currently Exploring:
+- Backend Development
+- Full Stack Systems
+- Scalable App Architecture
+- Advanced React Native Workflows
+- Product Engineering
+
+💼 Open To:
+- Internships
+- Startup Collaborations
+- Remote Opportunities
+- React Native Projects
+- Freelance Development Work
+
+<br/>
+
+<div align="left">
+
+### ⚡ Quick Highlights
+
+✔️ React Native & Expo Developer  
+✔️ Frontend Engineer with modern UI focus  
+✔️ Experience in debugging & issue resolution  
+✔️ Passionate about scalable mobile architecture  
+✔️ Shopify Freelance Development Experience  
+✔️ Building modern mobile-first experiences  
+
+</div>
 
 <br clear="right"/>
 
@@ -75,9 +123,9 @@
 
 | 💻 Role | 🏢 Organization | 🚀 Highlights |
 |---|---|---|
-| **React Native Developer Intern** | **Ouranos Robotics Pvt. Ltd.** | Built mobile app features using Expo + Tailwind CSS |
-| **UI Designer Intern** | **Hartalkar Innovations** | Designed interactive and animated frontend interfaces |
-| **Freelance Shopify Developer** | **Self-Employed** | Customized Shopify storefronts & responsive UI |
+| **React Native Developer Intern** | **Ouranos Robotics Pvt. Ltd.** | Developed scalable mobile features using Expo + Tailwind CSS |
+| **UI Designer Intern** | **Hartalkar Innovations** | Built animated and interactive frontend interfaces |
+| **Freelance Shopify Developer** | **Self-Employed** | Customized Shopify stores & optimized storefront UI/UX |
 
 </div>
 
@@ -95,18 +143,21 @@
 
 <br/>
 
-### 🚀 Grahak – QR Based Token System
+## 🚀 Grahak – QR Based Token System
 
 Built during **HackByte 4.0 at IIITDM Jabalpur**
 
 ✨ Features:
 - QR-based digital token management
-- Order tracking system
-- Analytics dashboard
-- Smart workflow for vendors
+- Smart order tracking system
+- Vendor analytics dashboard
+- Real-time workflow concepts
 
-🛠️ Tech Stack:
+### ⚙️ Tech Stack
 `React Native` `Node.js` `MongoDB` `React.js`
+
+🔗 Demo: Coming Soon  
+🔗 Repo: Coming Soon
 
 ---
 
@@ -120,16 +171,17 @@ Built during **HackByte 4.0 at IIITDM Jabalpur**
 
 <td width="50%">
 
-## 📱 BlueWave App
+# 📱 Open React Native Project
 
-Modern React Native application featuring:
-- Clean mobile UI
-- Smooth navigation
-- Responsive design
-- Real-time user experience
+Modern mobile application featuring:
+- Smooth navigation system
+- Responsive UI components
+- Multilingual support
+- Error handling & debugging workflows
+- Optimized mobile performance
 
 ### ⚙️ Stack
-`React Native` `Expo` `Tailwind CSS`
+`React Native` `Expo` `Tailwind CSS` `JavaScript`
 
 🔗 Demo: Coming Soon  
 🔗 Repo: Coming Soon
@@ -138,16 +190,17 @@ Modern React Native application featuring:
 
 <td width="50%">
 
-## 🛍️ Shopify E-commerce Store
+# 🛍️ Shopify Store Development
 
-Custom Shopify storefront with:
-- Product management
-- Responsive layouts
+Custom Shopify storefront project with:
+- Product & collection management
+- Responsive e-commerce layouts
 - Store customization
-- Optimized UI/UX
+- Enhanced customer experience
+- Optimized storefront workflow
 
 ### ⚙️ Stack
-`Shopify` `Liquid` `CSS`
+`Shopify` `Liquid` `JavaScript` `CSS`
 
 🔗 Demo: Coming Soon  
 🔗 Repo: Coming Soon
@@ -160,12 +213,13 @@ Custom Shopify storefront with:
 
 <td width="50%">
 
-## 🧩 Chrome Extension Project
+# 🧩 Chrome Extension Project
 
 Smart browser extension that:
 - Extracts media assets
 - Detects images/videos/links
 - Organizes downloadable content
+- Improves workflow automation
 
 ### ⚙️ Stack
 `JavaScript` `Chrome APIs`
@@ -177,13 +231,14 @@ Smart browser extension that:
 
 <td width="50%">
 
-## 🚀 React Native Mobile App
+# 🌊 BlueWave App
 
-Feature-rich mobile app with:
-- Drawer Navigation
-- Custom Modals
-- Multilingual Support
-- Modern UI Components
+Modern React Native app focused on:
+- Smooth UI interactions
+- Scalable mobile architecture
+- Fast mobile experience
+- Clean design system
+- Optimized performance
 
 ### ⚙️ Stack
 `React Native` `Expo` `Tailwind CSS`
@@ -196,6 +251,21 @@ Feature-rich mobile app with:
 </tr>
 
 </table>
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+💻 Building scalable & clean applications  
+🐞 Debugging complex UI & application issues  
+⚡ Optimizing performance and workflows  
+🚀 Exploring innovative startup ideas  
+📱 Crafting modern mobile experiences  
+📚 Continuously learning new technologies  
 
 </div>
 
@@ -225,26 +295,13 @@ Feature-rich mobile app with:
 
 ---
 
-# 💡 Developer Quote
+# 💡 Developer Philosophy
 
 <div align="center">
 
-> ### “Always learning. Always building. 🚀”
+> ### “Great applications are not just designed — they are optimized, debugged, refined and built to create meaningful user experiences.” 🚀
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Beyond Coding
-
-<div align="center">
-
-✨ Exploring innovative startup ideas  
-✨ Building modern mobile experiences  
-✨ Learning scalable architectures  
-✨ Open to exciting collaborations & opportunities  
 
 </div>
 
