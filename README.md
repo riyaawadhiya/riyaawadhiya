@@ -17,46 +17,14 @@
 </div>
 
 ---
-# ✨ About Me
 
-<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4f1f-bfd0-3a9f7b6d2f4b.gif">
+# ✨ What I Do
 
-## 👩‍💻 Riya Awadhiya
+<div align="center">
 
-🚀 React Native App Developer passionate about building scalable, modern and user-friendly mobile applications.
-
-💻 Specialized in:
-- React Native & Expo
-- Frontend Development
-- Responsive UI/UX
-- API Integration
-- Debugging & Error Resolution
-- Performance Optimization
-
-⚡ I enjoy solving real-world development problems, optimizing app performance and creating smooth digital experiences with clean architecture.
-
-🌱 Currently exploring Backend Development, scalable systems and advanced mobile workflows.
-
-💼 Open to internships, startup collaborations, freelance work and remote opportunities.
-
-<br clear="right"/>
-
----
-
-<div align="left">
-
-### ⚡ Quick Highlights
-
-✔️ React Native & Expo Developer  
-✔️ Frontend Engineer with modern UI focus  
-✔️ Experience in debugging & issue resolution  
-✔️ Passionate about scalable mobile architecture  
-✔️ Shopify Freelance Development Experience  
-✔️ Building modern mobile-first experiences  
+🚀 React Native Developer & Frontend Engineer passionate about building scalable mobile applications, modern UI/UX and smooth digital experiences. I enjoy debugging complex issues, optimizing application performance and creating clean, responsive interfaces with React Native, Expo and modern frontend technologies. Currently exploring backend development, scalable systems and advanced mobile workflows while actively seeking internships, freelance projects, startup collaborations and remote opportunities.
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -91,7 +59,7 @@
 
 ---
 
-# 💼 Experience
+# 💼 Internship Experience
 
 <div align="center">
 
@@ -115,122 +83,9 @@
 
 </div>
 
-<br/>
-
-## 🚀 Grahak – QR Based Token System
-
-Built during **HackByte 4.0 at IIITDM Jabalpur**
-
-✨ Features:
-- QR-based digital token management
-- Smart order tracking system
-- Vendor analytics dashboard
-- Real-time workflow concepts
-
-### ⚙️ Tech Stack
-`React Native` `Node.js` `MongoDB` `React.js`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-# 📱 Open React Native Project
-
-Modern mobile application featuring:
-- Smooth navigation system
-- Responsive UI components
-- Multilingual support
-- Error handling & debugging workflows
-- Optimized mobile performance
-
-### ⚙️ Stack
-`React Native` `Expo` `Tailwind CSS` `JavaScript`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-<td width="50%">
-
-# 🛍️ Shopify Store Development
-
-Custom Shopify storefront project with:
-- Product & collection management
-- Responsive e-commerce layouts
-- Store customization
-- Enhanced customer experience
-- Optimized storefront workflow
-
-### ⚙️ Stack
-`Shopify` `Liquid` `JavaScript` `CSS`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-# 🧩 Chrome Extension Project
-
-Smart browser extension that:
-- Extracts media assets
-- Detects images/videos/links
-- Organizes downloadable content
-- Improves workflow automation
-
-### ⚙️ Stack
-`JavaScript` `Chrome APIs`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-<td width="50%">
-
-# 🌊 BlueWave App
-
-Modern React Native app focused on:
-- Smooth UI interactions
-- Scalable mobile architecture
-- Fast mobile experience
-- Clean design system
-- Optimized performance
-
-### ⚙️ Stack
-`React Native` `Expo` `Tailwind CSS`
-
-🔗 Demo: Coming Soon  
-🔗 Repo: Coming Soon
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# ⚡ Developer Mindset
+# ⚡ Code • Create • Optimize
 
 <div align="center">
 
@@ -245,46 +100,34 @@ Modern React Native app focused on:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/riyaawadhiya">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/riya-awadhiya-888518281">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:riyaawadhiya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/riya-awadhiya-888518281">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riyaawadhiya">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Developer Philosophy
-
 <div align="center">
 
-> ### “Great applications are not just designed — they are optimized, debugged, refined and built to create meaningful user experiences.” 🚀
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+⚡ *Always learning, building and improving.*
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
-
-</div>
